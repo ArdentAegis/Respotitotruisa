@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 6A1D-BB94
+
+ Directory of C:\Users\A\hello-world
+
+03/13/2022  07:08 PM    <DIR>          .
+03/13/2022  07:07 PM    <DIR>          ..
+03/13/2022  07:08 PM                 0 hello.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  330,919,804,928 bytes free
